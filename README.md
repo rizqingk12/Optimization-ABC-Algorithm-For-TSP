@@ -1,2 +1,7 @@
-# Optimization-ABC-Algorithm-For-TSP
-Source Code Penelitian Pengaruh Rasio Banyaknya Employed Bee dan Onlooker Bee terhadap Performa Algoritma ABC Pada Penyelesaian TSP 
+Repositori ini berisi kode program penelitian skripsi.
+
+## Penulis ##
+Yuniar Rizqi
+Program Studi Matematika
+UIN Maulana Malik Ibrahim Malang
+Tahun 2025
